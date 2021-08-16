@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1038075762458",
+    "project_id": "movie-notes-71416",
+    "storage_bucket": "movie-notes-71416.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038075762458:android:c358b60382cdc85ec0bea3",
+        "android_client_info": {
+          "package_name": "com.example.movie_notes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1038075762458-5uejutkme3m78fvgc2d9dv93p4kdm66k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvMHI8gqnw3-cApQMa7N6cAWCaeZADMY0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1038075762458-5uejutkme3m78fvgc2d9dv93p4kdm66k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
